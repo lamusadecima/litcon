@@ -6,7 +6,7 @@ Laura Hernández Lorenzo; Luis Hernández Moliní. 04/2020/3346. LITCON 1.5. LIT
 
 ## Cómo citar y más información de Litcon
 
-Hernández-Lorenzo, L. (2022). Análisis de corpus poéticos con Litcon. Revista de Humanidades Digitales, 7. https://doi.org/10.5944/rhd.vol.7.2022.34586
+Hernández-Lorenzo, L. (2022). Análisis de corpus poéticos con Litcon. <i>Revista de Humanidades Digitales</i>, 7. https://doi.org/10.5944/rhd.vol.7.2022.34586
 
 ## Agradecimientos
 
