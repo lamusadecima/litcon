@@ -1,6 +1,6 @@
 # litcon
 
-<img width="193" height="20" alt="image" src="https://github.com/user-attachments/assets/32acea10-fa2d-4f02-9af4-18e8ea6f31c1" />
+[![DOI](https://doi.org/10.5281/zenodo.24136914)
 
 Litcon software for Text Analysis and Corpus Stylistics. It has been registered:
 
