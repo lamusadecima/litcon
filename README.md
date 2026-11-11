@@ -1,6 +1,6 @@
 # litcon
 
-[![DOI](https://doi.org/10.5281/zenodo.24136914)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24136914.svg)](https://doi.org/10.5281/zenodo.24136914)
 
 Litcon software for Text Analysis and Corpus Stylistics. It has been registered:
 
